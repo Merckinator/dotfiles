@@ -4,6 +4,7 @@ Configuration files for various tools with which I have been experimenting.
 TODO: Write scripts or console commands to copy these config files back-and-forth.
 
 `cp c:/Users/jmerc/.wezterm.lua c:/Users/jmerc/Documents/repos/dotfiles/.wezterm.lua`
+`cp c:/Users/jmerc/AppData/Roaming/alacritty/alacritty.toml c:/Users/jmerc/Documents/repos/dotfiles/alacritty.toml`
 
 
 ## Terminals

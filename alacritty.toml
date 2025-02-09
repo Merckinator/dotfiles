@@ -1,0 +1,5 @@
+[general]
+working_directory = 'C:\Users\jmerc\Documents\repos'
+
+[terminal]
+shell = 'C:\Users\jmerc\AppData\Local\Programs\nu\bin\nu.exe'
