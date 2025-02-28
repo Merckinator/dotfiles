@@ -1,6 +1,8 @@
 theme = "kanagawa"
 
 [editor]
+bufferline = "always"
+color-modes = true
 line-number = "relative"
 mouse = false
 
@@ -11,3 +13,17 @@ select = "underline"
 
 [editor.file-picker]
 hidden = false
+
+[editor.statusline]
+left = ["mode", "spinner", "version-control"]
+center = ["file-name"]
+separator = "│"
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+[keys.insert]
+C-c = "normal_mode"
+
+[keys.select]
+C-c = "normal_mode"
